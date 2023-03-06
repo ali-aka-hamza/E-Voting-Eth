@@ -1,7 +1,5 @@
 # E-Voting by using Private Ethereum Blockchain
 
-In this we have just 3 panels and vote button and check winner. In client folder we have html css files and app.js and in server folder we have configuration on server.
-In Contract folder we have contract of vote and in the Node1 folder we have etherum node.
 ## To Run this project follow these steps
 
 ### Installing prerequisites
